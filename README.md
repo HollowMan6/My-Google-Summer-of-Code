@@ -10,6 +10,13 @@
 [![Open Source Love](https://img.shields.io/badge/-%E2%9D%A4%20Open%20Source-Green?style=flat-square&logo=Github&logoColor=white&link=https://hollowman6.github.io/fund.html)](https://hollowman6.github.io/fund.html)
 [![GPL Licence](https://img.shields.io/badge/license-GPL-blue)](https://opensource.org/licenses/GPL-3.0/)
 [![Repo-Size](https://img.shields.io/github/repo-size/HollowMan6/My-Google-Summer-of-Code.svg)](../../archive/master.zip)
+
+## [2023 Google Blockly Developer Summit 开发者大会](https://sites.google.com/view/2023blocklysummit/speakers-organizers)
+
+[![](https://hollowman6.github.io/img/badges/summit.jpg)](https://www.youtube.com/watch?v=4OFU9D1Y2DI)
+- [My Presentation Slide](Slide_Songlin_Multi-Select_Plugin_2023_Blockly_Summit.pptx)
+- [My Presentation Transcript](Transcript_Songlin_Multi-Select_Plugin_2023_Blockly_Summit.md)
+
 ## 2022 Certificate 证书
 ![](https://hollowman6.github.io/img/badges/GSoC-22.jpg)
 
