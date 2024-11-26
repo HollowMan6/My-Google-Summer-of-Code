@@ -17,6 +17,10 @@
 - [My Presentation Slide](Slide_Songlin_Multi-Select_Plugin_2023_Blockly_Summit.pptx)
 - [My Presentation Transcript](Transcript_Songlin_Multi-Select_Plugin_2023_Blockly_Summit.md)
 
+## 2024 Mentor Certificate 导师证书
+![](https://hollowman6.github.io/img/badges/GSoC24-MIT.jpg)
+![](https://hollowman6.github.io/img/badges/GSoC24-OpenSUSE.jpg)
+
 ## 2022 Certificate 证书
 ![](https://hollowman6.github.io/img/badges/GSoC-22.jpg)
 
